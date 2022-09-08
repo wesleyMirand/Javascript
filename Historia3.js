@@ -57,7 +57,9 @@
                         Visual Studio foi feito em "Electon", "Discord" tambem, "SLACK".
                         
                         O Ionic , surgiu do JS, usa o NODE.JS, mais é uma "SDK" para criar aplicação para dispositivo moveis, 
-                        veio de "PhoneGap" versao antiga na tecnologia, evoluiu e esta na mao da "APACHE" se chama "CORDOVA". */
+                        veio de "PhoneGap" versao antiga na tecnologia, evoluiu e esta na mao da "APACHE" se chama "CORDOVA". 
+                        
+                        Alguns jogos em JS: PixiJs, Impact, Melon.js, CraftyJs, Phaser*/
                      
                         
                        
